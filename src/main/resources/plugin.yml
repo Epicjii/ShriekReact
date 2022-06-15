@@ -1,0 +1,4 @@
+name: ShriekReact
+version: '${version}'
+main: epicjii.shriekreact.ShriekReactPlugin
+api-version: 1.19
